@@ -10,6 +10,9 @@ I'm a hobbyist coder passionate about home automation, DIY electronics, and open
 - **DIY Soil Moisture Sensor**  
   Designed and built a custom [soil moisture sensor](https://github.com/illuzn/esphome-april-soil-moisture-sensor) that integrates seamlessly with Home Assistant, helping keep my garden healthier and smarter.
 
+- **Useful Home Assistant Things**  
+  A repo with my learnings over the last 4 years about Home Assistant particularly on underpowered hardware. My advice on [home assistant's database](https://github.com/illuzn/useful-homeassistant-things/blob/main/database/README.md) and why you should keep database size down. My [automation blueprints](https://github.com/illuzn/useful-homeassistant-things/blob/main/homeassistant-purge-entities-automation/README.md) which will help keep your home assistant database size down.
+  
 ## 💡 Interests
 
 - Home automation
