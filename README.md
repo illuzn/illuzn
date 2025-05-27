@@ -5,10 +5,10 @@ I'm a hobbyist coder passionate about home automation, DIY electronics, and open
 ## 🛠️ Projects
 
 - **Rheem Hot Water Heater Integration**  
-  I reverse-engineered the Rheem hot water heater system (Australia) and developed a Home Assistant integration, enabling advanced monitoring and control.
+  I reverse-engineered the Rheem hot water heater system (Australia) and developed a [Home Assistant integration](https://github.com/illuzn/rheem-eziset), enabling advanced monitoring and control. My documentation of the reverse engineered protocol is [also available](https://github.com/illuzn/Rheem-Eziset-Protocol).
 
 - **DIY Soil Moisture Sensor**  
-  Designed and built a custom soil moisture sensor that integrates seamlessly with Home Assistant, helping keep my garden healthier and smarter.
+  Designed and built a custom [soil moisture sensor](https://github.com/illuzn/esphome-april-soil-moisture-sensor) that integrates seamlessly with Home Assistant, helping keep my garden healthier and smarter.
 
 ## 💡 Interests
 
